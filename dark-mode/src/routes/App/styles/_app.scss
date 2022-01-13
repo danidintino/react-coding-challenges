@@ -18,6 +18,10 @@
     justify-content: center;
     cursor: pointer;
 
+    &.sun {
+      color: yellow;
+    }
+
     &:focus {
       outline: none;
     }
